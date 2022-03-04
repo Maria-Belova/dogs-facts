@@ -1,0 +1,13 @@
+.main-container {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+@media (max-width: 912px) {
+    .main-container {
+        justify-content: center;
+    }
+}

@@ -1,0 +1,28 @@
+.card-container {
+  margin-bottom: 35px;
+}
+
+.card-title {
+  margin: 0 0 20px 0;
+}
+
+.fact-icon {
+  width: 21px;
+  min-width: 21px;
+  height: auto;
+}
+
+.like-icon {
+  width: 30px;
+  height: auto;
+  color: red;
+}
+
+.css-46bh2p-MuiCardContent-root:last-child {
+  padding-bottom: 10px !important;
+}
+
+.css-1t6e9jv-MuiCardActions-root {
+  padding: 0 !important;
+  justify-content: flex-end;
+}

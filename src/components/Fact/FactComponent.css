@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Montserrat-Regular;
+  src: url(../../fonts/Montserrat-Regular.ttf);
+}
+
+.fact-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.fact-title {
+  margin: 0 0 0 5px;
+  font-family: "Montserrat-Regular";
+  font-size: 14px;
+}
+
+.fact-text {
+  margin: 0 0 0 7px;
+  font-family: "Montserrat-Regular";
+  font-size: 14px;
+}
