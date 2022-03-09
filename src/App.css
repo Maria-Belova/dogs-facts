@@ -25,3 +25,16 @@ body {
 .logo {
   margin-right: calc(40% - 148px);
 }
+
+@media (max-width: 520px) {
+  .header {
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 300px;
+  }
+
+  .logo {
+    margin-bottom: 25px;
+  }
+}
