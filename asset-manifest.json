@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zoo-facts/static/css/main.0607b72d.css",
-    "main.js": "/zoo-facts/static/js/main.d1f51205.js",
-    "static/media/Montserrat-Regular.ttf": "/zoo-facts/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
-    "static/media/logo.svg": "/zoo-facts/static/media/logo.7bbc22a0a44ab6e2fdd301977bc5afda.svg",
-    "static/media/STRRETCH SANS FREE.ttf": "/zoo-facts/static/media/STRRETCH SANS FREE.1acf56149225753ec3c4.ttf",
-    "index.html": "/zoo-facts/index.html",
-    "main.0607b72d.css.map": "/zoo-facts/static/css/main.0607b72d.css.map",
-    "main.d1f51205.js.map": "/zoo-facts/static/js/main.d1f51205.js.map"
+    "main.css": "/static/css/main.019c89d2.css",
+    "main.js": "/static/js/main.92b23829.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/logo.svg": "/static/media/logo.7bbc22a0a44ab6e2fdd301977bc5afda.svg",
+    "static/media/STRRETCH SANS FREE.ttf": "/static/media/STRRETCH SANS FREE.1acf56149225753ec3c4.ttf",
+    "index.html": "/index.html",
+    "main.019c89d2.css.map": "/static/css/main.019c89d2.css.map",
+    "main.92b23829.js.map": "/static/js/main.92b23829.js.map"
   },
   "entrypoints": [
-    "static/css/main.0607b72d.css",
-    "static/js/main.d1f51205.js"
+    "static/css/main.019c89d2.css",
+    "static/js/main.92b23829.js"
   ]
 }
